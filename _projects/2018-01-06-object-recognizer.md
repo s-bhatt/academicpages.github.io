@@ -2,7 +2,7 @@
 title: "E-Commerce Object Recognizer Project"
 collection: projects
 type: "Project"
-permalink: /project/2018-01-06-object-recognizer
+permalink: /projects/2018-01-06-object-recognizer
 venue: "Computer Science Department, Rutgers University"
 date: 2018-01-06
 location: "SNew Brunswick, New Jersey"
