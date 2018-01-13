@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
+This is Shivang Bhatt's home on the web!
