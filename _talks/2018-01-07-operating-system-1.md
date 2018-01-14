@@ -8,8 +8,6 @@ date: 2018-01-07
 location: "New Brunswick, New Jersey"
 ---
 
-# Designing an Operating System - I
-
 We (I along with two other super-talented blokes) designed an Operating System in three phases across the Fall of 2017. The three phases were:
 * Threads and Scheduling
 * Pseudo-virtual memory
