@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Shivang Bhatt"
   avatar           : "profile.png"
-  bio              : "Computer Science Graduate student at Rutgers | Student Software Developer @ Rutgers | ex-SDE at Flipkart | Actively seeking Internship opportunities for Summer 2018"
+  bio              : "Computer Science Graduate student at Rutgers | Student Software Developer @ Rutgers | ex-SDE @ Flipkart | Actively seeking Internship opportunities for Summer 2018"
   location         : "New Brunswick, New Jersey"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
