@@ -1,8 +1,8 @@
 ---
 title: "E-Commerce Object Recognizer Project"
-collection: talks
-type: "Talk"
-permalink: /talks/2018-01-06-object-recognizer
+collection: projects
+type: "Project"
+permalink: /projects/2018-01-06-object-recognizer
 venue: "Computer Science Department, Rutgers University"
 date: 2018-01-06
 location: "SNew Brunswick, New Jersey"
