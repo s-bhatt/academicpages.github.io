@@ -1,7 +1,11 @@
 ---
-layout: post
 title: "Designing an Operating System - II"
+collection: projects
+type: "Project"
+permalink: /projects/2018-01-09-operating-system-2
+venue: "Computer Science Department, Rutgers University"
 date: 2018-01-09
+location: "New Brunswick, New Jersey"
 ---
 
 We (I along with two other super-talented blokes) designed an Operating System in three phases across the Fall of 2017. The three phases were:

@@ -1,7 +1,11 @@
 ---
-layout: post
 title: "Designing an Operating System - I"
+collection: projects
+type: "Project"
+permalink: /projects/2018-01-07-operating-system-1
+venue: "Computer Science Department, Rutgers University"
 date: 2018-01-07
+location: "New Brunswick, New Jersey"
 ---
 
 # Designing an Operating System - I

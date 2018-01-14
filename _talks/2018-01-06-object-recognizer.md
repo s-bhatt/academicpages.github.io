@@ -5,7 +5,7 @@ type: "Project"
 permalink: /projects/2018-01-06-object-recognizer
 venue: "Computer Science Department, Rutgers University"
 date: 2018-01-06
-location: "SNew Brunswick, New Jersey"
+location: "New Brunswick, New Jersey"
 ---
 
 E-Commerce Object Recognizer.
