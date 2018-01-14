@@ -8,8 +8,6 @@ date: 2018-01-06
 location: "New Brunswick, New Jersey"
 ---
 
-E-Commerce Object Recognizer.
-
 A web service which helps people find the name of the products by just taking a photo with their cell phone.
 
 The tools used:
