@@ -1,13 +1,13 @@
 # main links links
 main:
   # - title: "About"
-  #   url: /about/s
-
-  - title: "Projects"
-    url: /projects/    
+  #   url: /about/
 
   - title: "CV"
-    url: /cv/Shivang_Bhatt_Resume.pdf
+  url: /cv/Shivang_Bhatt_Resume.pdf
+  
+  - title: "Projects"
+    url: /projects/
     
   # - title: "Portfolio"
   #   url: /portfolio/
