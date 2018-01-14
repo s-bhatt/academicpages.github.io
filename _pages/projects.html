@@ -5,6 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% for post in site.projects reversed %}
-  {% include archive-single-talk.html %}
+See a map of all the places I've given a talk!
+
+{% for project in site.projects reversed %}
+  <!-- {% include archive-single-talk.html %} -->
+  <li><span>{{ project.date | date_to_string }}</span> » <a href="{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a></li>
 {% endfor %}
