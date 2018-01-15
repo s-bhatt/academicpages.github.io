@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-  url: /cv/Shivang_Bhatt_Resume.pdf
+    url: /cv/Shivang_Bhatt_Resume.pdf
 
   - title: "Projects"
     url: /projects/
